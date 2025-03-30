@@ -24,7 +24,7 @@ Questo progetto permette di calcolare la correlazione tra il rendimento di un'az
 Per eseguire questo progetto, è necessario installare le seguenti librerie Python:
 
 ```bash
-pip install yfinance pandas matplotlib tkcalendar
+pip install yfinance pandas matplotlib tkcalendar```
 
 ## Esempio di Utilizzo
 
