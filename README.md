@@ -19,13 +19,6 @@ Questo progetto permette di calcolare la correlazione tra il rendimento di un'az
 - **Tkinter**: Per creare l'interfaccia grafica.
 - **tkcalendar**: Per il selettore di date.
 
-## Requisiti
-
-Per eseguire questo progetto, è necessario installare le seguenti librerie Python:
-
-```bash
-pip install yfinance pandas matplotlib tkcalendar```
-
 ## Esempio di Utilizzo
 
 Scegli un ticker per l'azione (ad esempio MSFT) e un ticker per l'indice (ad esempio ^NDX).
@@ -35,3 +28,12 @@ Seleziona un intervallo di date (ad esempio, dal 1 settembre 2023 al 1 marzo 202
 Clicca su "Calcola Correlazione".
 
 Il programma mostrerà la correlazione tra i rendimenti dell'azione e dell'indice, insieme al grafico dei rendimenti.
+
+## Requisiti
+
+Per eseguire questo progetto, è necessario installare le seguenti librerie Python:
+
+```bash
+pip install yfinance pandas matplotlib tkcalendar
+
+
